@@ -1,0 +1,6 @@
+{
+  "name": "CineCraft AI: Creador de Videos y Voces",
+  "description": "Gestor de turnos corporativo para kinesiología, fisioterapia y spa integrado con Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
